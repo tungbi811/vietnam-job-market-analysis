@@ -25,8 +25,11 @@ following real-world data engineering best practices.
 Based on the exploratory data analysis and visualizations:
 
 * **AI Engineer** roles have the **highest average salary** among all positions.
+![AI Engineer Salary](images/salary_by_role.png)
 * **Hà Nội** has the **largest number of job postings**, followed by **Hồ Chí Minh City**.
+![Jobs by City](images/jobs_by_city.png)
 * **Software Engineer** is the **most in-demand position**, accounting for the highest number of job listings.
+![Jobs by Position](images/jobs_by_position.png)
 
 These results highlight the strong demand for software engineering roles and the premium salary associated with AI-related positions in Vietnam's job market.
 
